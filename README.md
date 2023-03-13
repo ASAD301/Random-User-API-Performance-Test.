@@ -3,7 +3,7 @@
 
 ## Technology and Tools used
 - Jmeter
-- Google Spread Sheet 
+- Google Sheets
 
 ## Scenario
   - Load test
